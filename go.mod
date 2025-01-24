@@ -1,4 +1,4 @@
-module goalgebra/SimoneChiominto/goalgebra
+module github.com/SimoneChiominto/goalgebra
 
 go 1.23.4
 
